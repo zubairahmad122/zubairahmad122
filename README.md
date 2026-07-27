@@ -13,4 +13,4 @@ I build products end to end: React/Next.js interfaces backed by real Node.js/Typ
 - [Mini Profile Manager](https://github.com/zubairahmad122/mini-profile-manager) — profile CRUD UI with documented trade-offs
 
 **Find me**
-- Portfolio: https://zubairahmadportfolio.vercel.app/
+- Portfolio: https://zubiidev.tech/
