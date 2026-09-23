@@ -13,8 +13,9 @@ I have 3+ years of experience working on production applications for internation
 **Selected Work**
 - **Stache Cups** — real-time 2D/3D product customizer built with Vue, Nuxt.js, Three.js, Konva.js and Shopify
 - **Well Mode** — Android wellness product built with React Native, Expo, TypeScript and Firebase
-- **Line Skip** — production React application with TypeScript, reusable components and REST API integration
-- [MedBoard Dashboard](https://github.com/zubairahmad122/Dashboard-task) — responsive dashboard with Zustand state and animated UI
+- **Line Skip** — production React application with reusable TypeScript components and REST API integration
+- [Ecommerce Frontend](https://github.com/zubairahmad122/Ecommerce_Fronted) — ecommerce frontend with product browsing, cart and API integration  
+  [Live Demo](https://ecommerce-fronted-psi.vercel.app/) — the backend uses a free Railway deployment, so the first request may take a little longer after inactivity.
 
 **Currently**
 - Open to Frontend Engineer, React.js and Next.js opportunities
